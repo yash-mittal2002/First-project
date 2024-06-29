@@ -1,0 +1,293 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.navbar-nav {
+  margin-left: 300px;
+  color: white;
+}
+.nav-item a {
+  color: white;
+  font-size: 25px;
+  margin-left: 10px;
+}
+.navbar ul i {
+  margin-left: 100px;
+  margin-top: 15px;
+  font-size: 25px;
+}
+
+.comp {
+  background-image: url("m17-s-2.webp");
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+}
+.image-text h1 {
+  padding-top: 250px;
+  text-align: center;
+  font-weight: bolder;
+  color: white;
+  font-size: 70px;
+}
+.image-text button {
+  padding: 10px;
+  margin: 30px;
+  margin-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  border-radius: 30px;
+
+  border-color: white;
+  background-color: transparent;
+  color: white;
+}
+.image-text button:hover {
+  background-color: yellowgreen;
+  font-weight: bolder;
+}
+.cott {
+  display: flex;
+}
+.cott h5 {
+  padding-left: 30px;
+}
+.content {
+  margin-top: 150px;
+}
+.cn-1 img {
+  margin-top: 40px;
+  height: 100%;
+  width: 100%;
+}
+.text {
+  margin-top: 50px;
+}
+.text button {
+  margin-left: 30px;
+  border-radius: 40px;
+  padding: 10px;
+
+  background-color: #f5b443;
+  border-color: gray;
+  color: white;
+  font-weight: bolder;
+  display: block;
+}
+.re:hover {
+  background-color: black;
+}
+.rz {
+  background-color: white !important;
+  color: black !important;
+  border-color: gray !important;
+}
+.rz:hover {
+  background-color: #f5b443 !important;
+}
+.box1 {
+  text-align: center;
+  margin-top: 50px;
+}
+.icon {
+  margin-left: 50px;
+}
+.im {
+  text-align: center;
+  padding: 50px;
+  font-size: 25px;
+  color: white;
+}
+
+.iq {
+  display: flex;
+  /* margin-left: 110px; */
+}
+.iq p {
+  padding-left: 10px;
+  color: white;
+}
+.mm {
+  background-color: #f5b443;
+}
+.mmdf {
+  background-image: url("home_17_1.webp");
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.mmdf h1 {
+  top: 100px;
+  position: absolute;
+  color: white;
+  font-size: 60px;
+  font-weight: bolder;
+
+  left: 50px;
+}
+.idff {
+  box-shadow: 2px 3px 4px gray;
+  text-align: center;
+}
+.fdf {
+  border: 1px solid black;
+  border-radius: 50%;
+  height: 20px;
+  width: 20px;
+  position: relative;
+
+  left: 200px;
+  top: 20px;
+  color: white;
+  background-color: #f5b443;
+}
+.idff img {
+  width: 100%;
+}
+.mldlfd {
+  background-color: gainsboro;
+}
+
+.box2 {
+  text-align: center;
+  margin-top: 50px;
+}
+.nkdf {
+  text-align: center;
+  margin-top: 40px;
+}
+.box3 {
+  text-align: center;
+  margin-top: 40px;
+}
+.dhfd h5 {
+  font-weight: bolder;
+}
+.kkerer {
+  display: flex;
+  margin-top: 100px;
+}
+.dhfd {
+  margin-left: 15px;
+}
+.computer {
+  border: 1px solid black;
+  height: 350px;
+}
+.comm {
+  text-align: center;
+  border: 1px solid black;
+  padding-top: 10px;
+  background-color: #f7f7f7;
+  font-size: 20px;
+}
+.lapt {
+  margin-top: 30px;
+  margin-left: 50px;
+}
+.comm:hover {
+  background-color: gray;
+  color: white;
+}
+.lapt button {
+  margin-top: 50px;
+  margin-left: 15px;
+  height: 50px;
+  width: 150px;
+  border-color: gray;
+  border-radius: 30px;
+  background-color: white !important;
+  border-color: gray;
+}
+.lapt button:hover {
+  background-color: #f5b443 !important;
+  font-weight: bolder;
+}
+.inut {
+  background-image: url("bg-17.webp");
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+  margin-top: 30px;
+}
+input:focus {
+  color: white !important;
+}
+.box5 {
+  text-align: center;
+  padding-top: 50px;
+  color: white;
+  font-size: 30px;
+}
+
+input {
+  background-color: rgba(35, 35, 36, 0.6) !important;
+  height: 50px;
+}
+input::placeholder {
+  color: white !important;
+}
+.form-control {
+  margin-top: 30px;
+}
+.form-button {
+  margin-top: 30px;
+}
+.form-button button {
+  background-color: #f5b443;
+  color: white;
+  font-weight: bolder;
+  border: none;
+  display: block;
+  margin: 0 auto;
+  border-radius: 40px;
+  padding: 20px 20px;
+}
+
+textarea {
+  background-color: rgba(35, 35, 36, 0.6) !important;
+  height: 80px;
+}
+textarea::placeholder {
+  color: white !important;
+}
+textarea:focus {
+  color: white !important;
+}
+.bannerss {
+  margin-top: 30px;
+}
+.bannerss img {
+  width: 100%;
+}
+
+.kmkdfd {
+  background-color: #f7f7f7;
+}
+.ym img {
+  margin-top: 70px;
+}
+.set {
+  margin-top: 50px;
+}
+.new-image img {
+  width: 100%;
+}
+footer {
+  margin-top: 40px;
+  background-color: black;
+  color: white;
+}
+.cotttt {
+  margin-top: 40px;
+}
+.cotttt i {
+  padding-left: 20px;
+}
