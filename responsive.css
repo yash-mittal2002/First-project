@@ -1,0 +1,584 @@
+@media (min-width: 320px) and (max-width: 576px) {
+  .navbar-nav {
+    margin-left: 0px;
+  }
+
+  .navbar-nav a {
+    margin-left: 80px;
+    font-size: 20px;
+  }
+  .navbar-nav i {
+    display: none;
+  }
+  .image-text h1 {
+    padding-top: 84px;
+    font-size: 25px;
+  }
+  .content {
+    margin-top: 20px;
+    text-align: center;
+  }
+  .content h3 {
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  .content p {
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .cott h5 {
+    padding-left: 5px;
+  }
+  .co p {
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .co li {
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .text {
+    margin-top: 20px;
+  }
+  .text button {
+    margin-left: 3px;
+  }
+  .box1 {
+    margin-top: 20px;
+  }
+  .box1 p {
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .icon {
+    margin-left: 0px;
+  }
+  .icon h6 {
+    padding-top: 10px;
+  }
+  .icon p {
+    font-size: 15px;
+    padding-top: 10px;
+    text-align: justify !important;
+  }
+  .im {
+    padding: 0px;
+    margin: 0px;
+    font-size: 15px;
+  }
+  .im p {
+    padding-top: 10px;
+    font-size: 15px !important;
+  }
+  .iq p {
+    padding-left: 50px;
+  }
+
+  .mmdf h1 {
+    position: unset !important;
+  }
+  .box2 {
+    margin-top: 20px;
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .idff p {
+    font-size: 15px;
+  }
+  .box2 h1 {
+    text-align: center;
+  }
+  .nkdf {
+    margin-top: 20px;
+  }
+  .box3 {
+    margin-top: 20px;
+    font-size: 15px;
+  }
+  .kkerer {
+    margin-top: 20px;
+  }
+
+  .kkerer p {
+    font-size: 15px;
+  }
+  .dhfd {
+    margin-left: 0px;
+  }
+  .lapt button {
+    margin-top: 30px;
+  }
+  .box5 {
+    padding-top: 30px;
+    font-size: 15px;
+    text-align: center !important;
+  }
+  .box5 h1 {
+    font-weight: bolder;
+  }
+  .inut {
+    margin-top: 0px;
+  }
+  .form-button {
+    margin-top: 20px;
+  }
+  .form-button button {
+    padding: 10px 10px;
+  }
+  .imgt p {
+    text-align: justify !important;
+    padding-top: 10px;
+  }
+
+  .set {
+    margin-top: 0px;
+  }
+  .new-content {
+    padding-top: 10px;
+    text-align: justify !important;
+  }
+  .comm {
+    padding-left: 20px;
+    text-align: left;
+  }
+  .lapt {
+    margin-left: 10px;
+  }
+}
+
+@media (min-width: 577px) and (max-width: 767px) {
+  .navbar-nav {
+    margin-left: 0px;
+  }
+
+  .navbar-nav a {
+    margin-left: 80px;
+    font-size: 20px;
+  }
+  .navbar-nav i {
+    display: none;
+  }
+  .image-text h1 {
+    padding-top: 100px;
+    font-size: 30px;
+  }
+  .content {
+    margin-top: 20px;
+    text-align: center;
+  }
+  .content h3 {
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  .content p {
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .cott h5 {
+    padding-left: 5px;
+  }
+  .co p {
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .co li {
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .text {
+    margin-top: 20px;
+  }
+  .text button {
+    margin-left: 3px;
+  }
+  .box1 {
+    margin-top: 20px;
+  }
+  .box1 p {
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .icon {
+    margin-left: 0px;
+  }
+  .icon h6 {
+    padding-top: 10px;
+  }
+  .icon p {
+    font-size: 15px;
+    padding-top: 10px;
+    text-align: justify !important;
+  }
+  .im {
+    padding: 0px;
+    margin: 0px;
+    font-size: 15px;
+  }
+  .im p {
+    padding-top: 10px;
+    font-size: 15px !important;
+  }
+  .iq p {
+    padding-left: 50px;
+  }
+
+  .mmdf h1 {
+    position: unset !important;
+  }
+  .box2 {
+    margin-top: 20px;
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .idff p {
+    font-size: 15px;
+  }
+  .box2 h1 {
+    text-align: center;
+  }
+  .nkdf {
+    margin-top: 20px;
+  }
+  .box3 {
+    margin-top: 20px;
+    font-size: 15px;
+  }
+  .kkerer {
+    margin-top: 20px;
+  }
+
+  .kkerer p {
+    font-size: 15px;
+  }
+  .dhfd {
+    margin-left: 0px;
+  }
+  .lapt button {
+    margin-top: 30px;
+  }
+  .box5 {
+    padding-top: 30px;
+    font-size: 15px;
+    text-align: center !important;
+  }
+  .box5 h1 {
+    font-weight: bolder;
+  }
+  .inut {
+    margin-top: 0px;
+  }
+  .form-button {
+    margin-top: 20px;
+  }
+  .form-button button {
+    padding: 10px 10px;
+  }
+  .imgt p {
+    text-align: justify !important;
+    padding-top: 10px;
+  }
+  .set {
+    margin-top: 0px;
+  }
+  .new-content {
+    padding-top: 10px;
+    text-align: justify !important;
+  }
+  .comm {
+    padding-left: 20px;
+    text-align: left;
+  }
+  .lapt {
+    margin-left: 10px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .navbar-nav {
+    margin-left: 0px;
+  }
+
+  .navbar-nav a {
+    margin-left: 25px;
+    font-size: 20px;
+  }
+
+  .image-text h1 {
+    padding-top: 100px;
+    font-size: 30px;
+  }
+  .content {
+    margin-top: 20px;
+    text-align: center;
+  }
+  .content h3 {
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  .content p {
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .cott h5 {
+    padding-left: 5px;
+  }
+  .co p {
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .co li {
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .text {
+    margin-top: 20px;
+  }
+  .text button {
+    margin-left: 3px;
+  }
+  .box1 {
+    margin-top: 20px;
+  }
+  .box1 p {
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .icon {
+    margin-left: 0px;
+  }
+  .icon h6 {
+    padding-top: 10px;
+  }
+  .icon p {
+    font-size: 15px;
+    padding-top: 10px;
+    text-align: justify !important;
+  }
+
+  .im p {
+    padding-top: 10px;
+    font-size: 15px !important;
+  }
+  .iq p {
+    padding-left: 50px;
+  }
+
+  .mmdf h1 {
+    position: unset !important;
+  }
+  .box2 {
+    margin-top: 20px;
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .idff p {
+    font-size: 15px;
+  }
+  .box2 h1 {
+    text-align: center;
+  }
+  .nkdf {
+    margin-top: 20px;
+  }
+  .box3 {
+    margin-top: 20px;
+    font-size: 15px;
+  }
+  .kkerer {
+    margin-top: 20px;
+  }
+
+  .kkerer p {
+    font-size: 15px;
+  }
+  .dhfd {
+    margin-left: 0px;
+  }
+  .lapt button {
+    margin-top: 30px;
+  }
+
+  .new-image {
+    margin-top: 30px;
+  }
+  .box5 {
+    padding-top: 30px;
+    font-size: 15px;
+    text-align: center !important;
+  }
+  .box5 h1 {
+    font-weight: bolder;
+  }
+  .inut {
+    margin-top: 0px;
+  }
+  .form-button {
+    margin-top: 20px;
+  }
+  .form-button button {
+    padding: 10px 10px;
+  }
+  .imgt p {
+    text-align: justify !important;
+    padding-top: 10px;
+  }
+  .set {
+    margin-top: 0px;
+  }
+  .new-content {
+    padding-top: 50px;
+    text-align: justify !important;
+  }
+  .comm {
+    padding-left: 20px;
+    text-align: left;
+  }
+  .lapt {
+    margin-left: 10px;
+  }
+}
+
+@media (min-width: 993px) and (max-width: 1200px) {
+  .navbar-nav {
+    margin-left: 0px;
+  }
+
+  .navbar-nav a {
+    margin-left: 25px;
+    font-size: 20px;
+  }
+
+  .image-text h1 {
+    padding-top: 100px;
+    font-size: 30px;
+  }
+  .content {
+    margin-top: 20px;
+    text-align: center;
+  }
+  .content h3 {
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  .content p {
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .cott h5 {
+    padding-left: 5px;
+  }
+  .co p {
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .co li {
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .text {
+    margin-top: 20px;
+  }
+  .text button {
+    margin-left: 3px;
+  }
+  .box1 {
+    margin-top: 20px;
+  }
+  .box1 p {
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .icon {
+    margin-left: 0px;
+  }
+  .icon h6 {
+    padding-top: 10px;
+  }
+  .icon p {
+    font-size: 15px;
+    padding-top: 10px;
+    text-align: justify !important;
+  }
+
+  .im p {
+    padding-top: 10px;
+    font-size: 15px !important;
+  }
+  .iq p {
+    padding-left: 50px;
+  }
+
+  .mmdf h1 {
+    position: unset !important;
+  }
+  .box2 {
+    margin-top: 20px;
+    text-align: justify !important;
+    font-size: 15px;
+  }
+  .idff p {
+    font-size: 15px;
+  }
+  .box2 h1 {
+    text-align: center;
+  }
+  .nkdf {
+    margin-top: 20px;
+  }
+  .box3 {
+    margin-top: 20px;
+    font-size: 15px;
+  }
+  .kkerer {
+    margin-top: 20px;
+  }
+
+  .kkerer p {
+    font-size: 15px;
+  }
+  .dhfd {
+    margin-left: 0px;
+  }
+  .lapt button {
+    margin-top: 30px;
+  }
+
+  .new-image {
+    margin-top: 30px;
+  }
+  .box5 {
+    padding-top: 30px;
+    font-size: 15px;
+    text-align: center !important;
+  }
+  .box5 h1 {
+    font-weight: bolder;
+  }
+  .inut {
+    margin-top: 0px;
+  }
+  .form-button {
+    margin-top: 20px;
+  }
+  .form-button button {
+    padding: 10px 10px;
+  }
+  .imgt p {
+    text-align: justify !important;
+    padding-top: 10px;
+  }
+  .set {
+    margin-top: 0px;
+  }
+  .new-content {
+    padding-top: 50px;
+    text-align: justify !important;
+  }
+  .comm {
+    padding-left: 20px;
+    text-align: left;
+  }
+  .lapt {
+    margin-left: 10px;
+  }
+}
